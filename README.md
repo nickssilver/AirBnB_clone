@@ -1,6 +1,6 @@
 # AirBnB clone - The console
+ <img src="img/hbnb_screenshot.png" alt="cover" />
 
-![hbnb-screenshot](https://github.com/nickssilver/AirBnB_clone/img/hbnb_screenshot.png)
 ## Description
 
 This team project is part of the ALX School Full-Stack Software Engineer program.
